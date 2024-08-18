@@ -1,6 +1,16 @@
-# Dava-Takip-App
+# untitled6
 
-![resim](https://github.com/user-attachments/assets/881f79f8-3fbb-476e-8c84-265affd1314e)
+A new Flutter project.
 
-![resim](https://github.com/user-attachments/assets/1e2c4683-3222-4360-b6dd-2fd8eb6ec81a)
+## Getting Started
 
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
