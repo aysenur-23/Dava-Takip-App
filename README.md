@@ -1,5 +1,11 @@
 # Dava Takip APP
 
+
+![resim](https://github.com/user-attachments/assets/ecfa0c10-59a0-4528-968b-e0f94c452be9)
+
+![resim](https://github.com/user-attachments/assets/584a9b85-a35c-46fb-a5bb-2f2031851f34)
+
+
 A new Flutter project.
 
 ## Getting Started
